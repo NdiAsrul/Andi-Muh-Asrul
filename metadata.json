@@ -1,0 +1,7 @@
+{
+  "name": "Portal Gizi UAI Pro",
+  "description": "A comprehensive academic portal for the Nutrition Department, featuring student/faculty dashboards, thesis management, and an AI-powered nutrition assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
